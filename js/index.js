@@ -5,14 +5,14 @@
 const buttonYes = document.querySelector(".botaoYes")
 
 buttonYes.addEventListener("click", () => {
-    alert("Exclusäo dos dados confirmada!")
+
     console.log("Exclusäo dos dados confirmada!")
 })
 
 const buttonNo = document.querySelector(".botaoNao")
 
 buttonNo.addEventListener("click", () => {
-    alert("Exclusão dos dados NÃO confirmada")
+
     console.log("Exclusão dos dados NÃO confirmada")
 })
 
